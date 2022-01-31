@@ -51,7 +51,7 @@ export default {
     padding: 10px 20px;
     border-radius: 4px;
     box-shadow: 1px 2px 3px rgba(0,0,0,0.05);
-    border-left: 4px solid yellow;
+    border-left: 4px solid black;
   }
   h3 {
     cursor: pointer;
@@ -73,7 +73,7 @@ export default {
   }
 
   .project.complete {
-      border-left: 4px solid #00ce89;
+      border-left: 4px solid yell;
   }
 
   .project.complete .tick{

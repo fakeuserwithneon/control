@@ -1,4 +1,4 @@
-# first-project
+# Control Society
 
 ## Project setup
 ```

@@ -76,7 +76,7 @@ export default {
   form button {
     display: block;
     margin: 20px auto 0;
-    background: #00ce89;
+    background: black;
     color: white;
     padding: 10px;
     border: 0;

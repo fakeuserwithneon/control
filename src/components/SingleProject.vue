@@ -42,7 +42,7 @@ export default {
     padding: 10px 20px;
     border-radius: 4px;
     box-shadow: 1px 2px 3px rgba(0,0,0,0.05);
-    border-left: 4px solid yellow;
+    border-left: 4px solid black;
   }
   h3 {
     cursor: pointer;
